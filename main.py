@@ -1,5 +1,6 @@
 import types
 
+
 class FlatIterator:
 
     def __init__(self, list_of_list):
